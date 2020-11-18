@@ -1,0 +1,15 @@
+New line 0
+New line 1 from kishore.sampathkumar
+I want to add a new branch
+Newer entry for remote
+Another entry made by user edureka_instructor_1
+new entry from user: kishore.sampathkumar@gmail.com after
+edureka_instructor_1's entry.
+New line 6 from edureka_instructor_1
+Conflicting line from user: edureka
+New line 8 from user: edureka
+New line 9 from user: edureka
+New line 10 from user: edureka
+New line 11
+New line 12
+New line 13
